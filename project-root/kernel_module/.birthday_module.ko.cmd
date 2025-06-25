@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/project-root/kernel_module/birthday_module.ko := ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/project-root/kernel_module/birthday_module.ko /home/ubuntu/project-root/kernel_module/birthday_module.o /home/ubuntu/project-root/kernel_module/birthday_module.mod.o;  true

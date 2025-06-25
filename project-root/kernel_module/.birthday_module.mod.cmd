@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/project-root/kernel_module/birthday_module.mod := { echo  /home/ubuntu/project-root/kernel_module/birthday_module.o;  echo; } > /home/ubuntu/project-root/kernel_module/birthday_module.mod
